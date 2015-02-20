@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="was-sec-poc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="was-sec-poc-1.0.war">
+      <element id="artifact" artifact-name="was-sec-poc:war exploded" />
+    </root>
+  </artifact>
+</component>
